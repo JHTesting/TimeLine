@@ -20,7 +20,7 @@ public class UserInterface implements Runnable {
     public JPanel mainPanel;
     private CardLayout cardLayout;
 
-
+// this is just a test comment
     public UserInterface(EventHandler handler) {
 
         this.handler = handler;
